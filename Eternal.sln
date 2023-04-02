@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32505.426
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Eternal", "Eternal.csproj", "{09A0E77D-47E4-4F2B-A25E-6A5EE81D3F69}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scraper", "..\Scraper\Scraper.csproj", "{EB86B877-597E-414B-A2C2-FC142BB6FBDD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kuksi", "..\Kuksi\Kuksi.csproj", "{A21E6EFD-5B5C-49AF-BAEA-D998FEC9E835}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Thermometer Eternal", "..\Thermometer Eternal\Thermometer Eternal.csproj", "{AA229670-9C8D-4418-9F5A-4CE56914364F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Eternal Juhos", "..\Eternal Juhos\Eternal Juhos.csproj", "{A2E027DC-C6E3-44FA-8C10-1B592FA8E480}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rajmundocska", "..\Rajmundocska\Rajmundocska.csproj", "{724F66C9-2FB6-46B4-B9FA-FE03B6A82DFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roland", "..\Roland\Roland.csproj", "{B9027788-FFE8-4D94-9F82-7A56BC70BA76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09A0E77D-47E4-4F2B-A25E-6A5EE81D3F69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09A0E77D-47E4-4F2B-A25E-6A5EE81D3F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09A0E77D-47E4-4F2B-A25E-6A5EE81D3F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09A0E77D-47E4-4F2B-A25E-6A5EE81D3F69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB86B877-597E-414B-A2C2-FC142BB6FBDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB86B877-597E-414B-A2C2-FC142BB6FBDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB86B877-597E-414B-A2C2-FC142BB6FBDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB86B877-597E-414B-A2C2-FC142BB6FBDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A21E6EFD-5B5C-49AF-BAEA-D998FEC9E835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A21E6EFD-5B5C-49AF-BAEA-D998FEC9E835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A21E6EFD-5B5C-49AF-BAEA-D998FEC9E835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A21E6EFD-5B5C-49AF-BAEA-D998FEC9E835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA229670-9C8D-4418-9F5A-4CE56914364F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA229670-9C8D-4418-9F5A-4CE56914364F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA229670-9C8D-4418-9F5A-4CE56914364F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA229670-9C8D-4418-9F5A-4CE56914364F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2E027DC-C6E3-44FA-8C10-1B592FA8E480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2E027DC-C6E3-44FA-8C10-1B592FA8E480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2E027DC-C6E3-44FA-8C10-1B592FA8E480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2E027DC-C6E3-44FA-8C10-1B592FA8E480}.Release|Any CPU.Build.0 = Release|Any CPU
+		{724F66C9-2FB6-46B4-B9FA-FE03B6A82DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{724F66C9-2FB6-46B4-B9FA-FE03B6A82DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{724F66C9-2FB6-46B4-B9FA-FE03B6A82DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{724F66C9-2FB6-46B4-B9FA-FE03B6A82DFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9027788-FFE8-4D94-9F82-7A56BC70BA76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9027788-FFE8-4D94-9F82-7A56BC70BA76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9027788-FFE8-4D94-9F82-7A56BC70BA76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9027788-FFE8-4D94-9F82-7A56BC70BA76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3216686-95F9-43D2-8F1E-FC5FC93437BB}
+	EndGlobalSection
+EndGlobal
